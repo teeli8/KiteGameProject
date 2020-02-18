@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - objects
+  - bullets
+  - edges
+  - hazards
+  - items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2651808893
+    locked: 0
+  - name: Boundary
+    uniqueID: 2291206243
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: main
+    uniqueID: 3954010467
+    locked: 0
+  - name: Keys
+    uniqueID: 3930757357
+    locked: 0
+  - name: movables
+    uniqueID: 1928747937
+    locked: 0
